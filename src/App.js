@@ -2,10 +2,10 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  let answer1 = 2;
-  let answer2 = 25;
-  let answer3 = 'red';
-  let answer4 = 'blue'
+  let answer1 = 0;
+  let answer2 = 0;
+  let answer3 = '';
+  let answer4 = '';
 
 
   return (
