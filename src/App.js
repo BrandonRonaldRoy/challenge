@@ -2,10 +2,9 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  let answer1 = 2;
+  let answer1 = 100;
   let answer2 = 25;
-  let answer3 = 'red';
-  let answer4 = 'blue'
+  let answer4 = 'blue';
 
 
   return (
@@ -16,7 +15,6 @@ function App() {
         <p>50 / 2 = {answer2}</p>
         <div>
           <p>
-            Roses are {answer3} <br></br>
             Violets are {answer4}  
           </p>
         </div>
