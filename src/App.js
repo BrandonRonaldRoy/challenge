@@ -10,9 +10,6 @@ function App() {
 
   return (
     <div className="App">
-
-
-
       <div>
         <h1>Rebasing Challenge</h1>
         <p>1 + 1 = {answer1}</p>
@@ -22,30 +19,8 @@ function App() {
             Roses are {answer3} <br></br>
             Violets are {answer4}  
           </p>
-          
-          
         </div>
-
       </div>
-
-
-
-
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Change1
-          change2
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
     </div>
   );
 }
