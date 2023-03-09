@@ -3,9 +3,8 @@ import './App.css';
 
 function App() {
   let answer1 = 2;
-  let answer2 = 25;
+  let answer2 = -1;
   let answer3 = 'red';
-  let answer4 = 'blue'
 
 
   return (
@@ -16,8 +15,7 @@ function App() {
         <p>50 / 2 = {answer2}</p>
         <div>
           <p>
-            Roses are {answer3} <br></br>
-            Violets are {answer4}  
+            Roses are {answer3} <br></br>  
           </p>
         </div>
       </div>
